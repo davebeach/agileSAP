@@ -1,0 +1,34 @@
+{
+  "name": "agilesap",
+  "version": "0.0.1",
+  "description": "Agile SAP Documentation for Rollout of Project Centric Business Processes",
+  "main": "js/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bpmn-js": "^0.26.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davebeach/agileSAP.git"
+  },
+  "keywords": [
+    "SAP",
+    "BPMN",
+    "Agile",
+    "SCRUM",
+    "HANA",
+    "S/4"
+  ],
+  "author": "David Beach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davebeach/agileSAP/issues"
+  },
+  "homepage": "https://github.com/davebeach/agileSAP#readme"
+}
